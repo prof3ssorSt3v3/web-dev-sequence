@@ -41,8 +41,17 @@ important topics and features of the language.
 10. Objects
 11. Arrays
 12. Loops
-13. Namespaces
-14. Modules and Imports
-15. Core JS, Web APIS, and NodeJS
-16. `<script>` tags
-17. The DOM
+13. Date Objects
+
+- Date Objects
+- Temporal Objects
+
+14. Namespaces
+15. Modules and Imports
+16. Core JS, Web APIS, and NodeJS
+17. `<script>` tags
+18. The DOM
+19. Nodes and Elements
+20. Traversing, Appending, Finding, Removing Nodes
+21. Attributes
+22. Creating HTML
