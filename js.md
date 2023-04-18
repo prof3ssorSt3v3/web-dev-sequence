@@ -57,12 +57,12 @@ important topics and features of the language.
 22. Generating HTML from Data
 23. Events
 24. Errors and Exceptions
-25. Chrome Dev Tools
+25. Deep vs Shallow Copy and StructuredClone
 26. Promises
 27. XML
 28. JSON
 29. JS Objects vs JSON
-30. fetch
+30. fetch and XMLHttpRequest
 
 - HTTP Methods
 - HTTP Status codes
@@ -74,15 +74,20 @@ important topics and features of the language.
 - Blobs
 - Files
 - FormData
+- Uploading files and data
+- XMLHttpRequest
 
-31. APIs
-32. setTimeout, setInterval
-33. Tasks, Microtasks, Event Loop
-34. Higher Order and Pure Functions
-35. Execution context and closures
-36. Prototypes
-37. Class keyword
-38. Client-Side Storage
+31. Form Validation
+32. Regular Expressions
+33. APIs
+34. Maps and Sets
+35. setTimeout, setInterval
+36. Tasks, Microtasks, Event Loop
+37. Higher Order and Pure Functions
+38. Execution context and closures
+39. Prototypes
+40. Class keyword
+41. Client-Side Storage
 
 - cookies
 - localStorage
@@ -91,12 +96,37 @@ important topics and features of the language.
 - IndexedDB
 - Files
 
-39. Audio and Video
-40. HTML5 Canvas
-41. WebAuth
-42. Web Components
-43. Streams
-44. Service Workers
-45. Messaging
-46. PWA
-47.
+42. Audio and Video
+43. HTML5 Canvas
+44. WebAuth
+45. Web Components
+46. Service Workers
+47. Messaging
+48. Web Workers
+49. Worklets
+50. PWA
+51. History API
+52. Navigation API
+53. View Transitions API
+54. Geolocation API
+55. Permissions API
+56. Web Payments API
+57. ScreenOrientation API
+58. DeviceOrientation API
+59. Clipboard API
+60. FullScreen API
+61. Page Visibility API
+62. Touch and Pointer Events
+63. Observers Resize and Mutation and Intersection
+64. Selection API
+65. Web Speech API
+66. Web Share API
+67. CSSOM
+68. Web Push API
+69. Web Crypto API
+70. Streams
+71. Sockets
+72. WebRTC
+73. WebGL
+74. WebXR
+75. Wasm
