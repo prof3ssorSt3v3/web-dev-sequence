@@ -10,4 +10,4 @@ It is important to note that there is a lot of overlap between these skill areas
 2. [CSS topics](./css.md)
 3. [JavaScript topics](./js.md)
 4. [Development tools](./tools.md)
-5. [Web Design topics](./design.md)
+5. [Web Design for Developers topics](./design.md)
