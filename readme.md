@@ -11,3 +11,7 @@ It is important to note that there is a lot of overlap between these skill areas
 3. [JavaScript topics](./js.md)
 4. [Development tools](./tools.md)
 5. [Web Design for Developers topics](./design.md)
+6. [Android topics](./android.md)
+7. [iOS topics](./ios.md)
+8. [Maui topics](./maui.md)
+9. [UX topics](./ux.md)
