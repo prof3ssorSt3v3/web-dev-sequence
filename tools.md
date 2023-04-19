@@ -1,14 +1,32 @@
 # Web Development Tools
 
-1. NodeJS and NPM
-2. VSCode
-3. Terminal CLI
-4. Git
-5. GitHub
-6. Github CLI
-7. SSH Keys
-8. Chrome Dev Tools
-9. Websites with tools...
-10. Let's Encrypt
-11. Netlify
-12. Vercel
+1. NodeJS
+2. npm setup
+3. VSCode
+4. Terminal CLI
+
+- touch, cat, mv, cp, rm, cd, ls
+- chown, chgrp, chmod
+
+5. Vim basics
+6. brew
+7. tar, gzip
+8. NPM
+
+- npm init
+- npm config
+- package.json
+
+9. Git
+10. GitHub
+11. Github CLI
+12. SSH Keys
+13. Chrome Dev Tools
+14. Webpack
+15. Vite
+16. Babel
+17. SWC
+18. .
+19. Let's Encrypt
+20. Netlify
+21. Vercel

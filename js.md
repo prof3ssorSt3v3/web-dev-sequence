@@ -110,21 +110,22 @@ important topics and features of the language.
 - dynamic import()
 - import for side-effects
 
-16. Core JS, Web APIS, and NodeJS
-17. `<script>` tags
+16. Destructuring, spread, rest
+17. Core JS, Web APIS, and NodeJS
+18. `<script>` tags
 
 - async
 - defer
 - type
 
-18. The DOM
+19. The DOM
 
 - How JavaScript sees the HTML
 - window
 - document
 - document.body
 
-19. Nodes and Elements
+20. Nodes and Elements
 
 - difference between Nodes and Elements
 - text nodes
@@ -135,7 +136,7 @@ important topics and features of the language.
 - createDocumentFragment
 - innerHTML, textContent, outerHTML
 
-20. Traversing, Appending, Finding, Removing Nodes
+21. Traversing, Appending, Finding, Removing Nodes
 
 - querySelector
 - querySelectorAll
@@ -145,21 +146,21 @@ important topics and features of the language.
 - appendChild, append
 - removeChild, remove
 
-21. Attributes
+22. Attributes
 
 - attributes vs properties
 - getAttribute
 - setAttribute
 - dataset properties
 
-22. Generating HTML from Data
+23. Generating HTML from Data
 
 - Element.innerHTML = Array.map( ).join("")
 - templates
 - template.content.cloneNode(true)
 - Not calling append inside a loop
 
-23. Events
+24. Events
 
 - mouse events
 - keyboard events
@@ -176,17 +177,18 @@ important topics and features of the language.
 - page lifecycle events: DOMContentLoaded, load, unload, beforeunload, pageshow, pagehide
 - onclick old 1990s event approach
 
-24. Errors and Exceptions
+25. Errors and Exceptions
 
 - try..catch()
+- built-in error types
 - new Error()
 
-25. Deep vs Shallow Copy and StructuredClone
-26. Promises
-27. XML
-28. JSON
-29. JS Objects vs JSON
-30. fetch and XMLHttpRequest
+26. Deep vs Shallow Copy and StructuredClone
+27. Promises
+28. XML
+29. JSON
+30. JS Objects vs JSON
+31. fetch and XMLHttpRequest
 
 - HTTP Methods
 - HTTP Status codes
@@ -201,7 +203,7 @@ important topics and features of the language.
 - Uploading files and data
 - XMLHttpRequest
 
-31. APIs
+32. APIs
 
 - What is an API
 - API keys
@@ -210,29 +212,29 @@ important topics and features of the language.
 - jsonplaceholder.typicode.com
 - other example apis
 
-32. Form Validation
-33. Regular Expressions
-34. Bitwise operations
+33. Form Validation
+34. Regular Expressions
+35. Bitwise operations
 
 - AND, OR, XOR, NOT
 - odd, even
 
-35. Maps and Sets
-36. Symbols
-37. Generators and Iterators
+36. Maps and Sets
+37. Symbols
+38. Generators and Iterators
 
 - generator
 - yield
 - iterators
 
-37. setTimeout, setInterval
+38. setTimeout, setInterval
 
 - set and clear timers
 
-38. Tasks, Microtasks, requestAnimationFrame, Event Loop
-39. Higher Order and Pure Functions
-40. Execution context and closures
-41. Prototypes
+39. Tasks, Microtasks, requestAnimationFrame, Event Loop
+40. Higher Order and Pure Functions
+41. Execution context and closures
+42. Prototypes
 
 - prototype objects
 - prototype chain
@@ -240,8 +242,8 @@ important topics and features of the language.
 - .prototype - from functions
 - .constructor
 
-42. `new` and `this` and lexical scope
-43. Class keyword
+43. `new` and `this` and lexical scope
+44. Class keyword
 
 - constructor()
 - extends
@@ -250,7 +252,7 @@ important topics and features of the language.
 - static methods
 - extending errors
 
-43. Client-Side Storage
+45. Client-Side Storage
 
 - cookies
 - localStorage
@@ -259,49 +261,49 @@ important topics and features of the language.
 - IndexedDB
 - Files
 
-44. Audio and Video
-45. HTML5 Canvas
-46. Web Components
-47. Service Workers
-48. Messaging
-49. PWA
+46. Audio and Video
+47. HTML5 Canvas
+48. Web Components
+49. Service Workers
+50. Messaging
+51. PWA
 
 - manifest
 - service workers
 - caching strategies
 - WorkBox
 
-50. Web Workers
-51. Worklets
-52. Shared Workers
-53. WebAuth
-54. History API
-55. Navigation API
-56. Web Animations API
-57. Notifications API
-58. Sensor APIs
-59. Screen Wake Lock API
-60. View Transitions API
-61. Geolocation API
-62. Page Visibility API
-63. ScreenOrientation API
-64. DeviceOrientation API
-65. Drag and Drop API
-66. Permissions API
-67. Web Payments API
-68. Clipboard API
-69. FullScreen API
-70. Prioritized Task Scheduling
-71. Observers Resize and Mutation and Intersection
-72. Selection API
-73. Web Speech API
-74. Web Share API
-75. CSSOM
-76. Web Push API
-77. Web Crypto API
-78. Streams
-79. Sockets
-80. WebRTC
-81. WebGL
-82. WebXR
-83. Wasm
+52. Web Workers
+53. Worklets
+54. Shared Workers
+55. WebAuth
+56. History API
+57. Navigation API
+58. Web Animations API
+59. Notifications API
+60. Sensor APIs
+61. Screen Wake Lock API
+62. View Transitions API
+63. Geolocation API
+64. Page Visibility API
+65. ScreenOrientation API
+66. DeviceOrientation API
+67. Drag and Drop API
+68. Permissions API
+69. Web Payments API
+70. Clipboard API
+71. FullScreen API
+72. Prioritized Task Scheduling
+73. Observers Resize and Mutation and Intersection
+74. Selection API
+75. Web Speech API
+76. Web Share API
+77. CSSOM
+78. Web Push API
+79. Web Crypto API
+80. Streams
+81. Sockets
+82. WebRTC
+83. WebGL
+84. WebXR
+85. Wasm
