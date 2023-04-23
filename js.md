@@ -184,11 +184,18 @@ important topics and features of the language.
 - new Error()
 
 26. Deep vs Shallow Copy and StructuredClone
-27. Promises
-28. XML
-29. JSON
-30. JS Objects vs JSON
-31. fetch and XMLHttpRequest
+27. Form Validation
+
+- submit vs requestSubmit
+- checkValidity, reportValidity
+- invalid event, submit event
+- form properties and encoding
+
+28. Promises
+29. XML
+30. JSON
+31. JS Objects vs JSON
+32. fetch and XMLHttpRequest
 
 - HTTP Methods
 - HTTP Status codes
@@ -261,12 +268,14 @@ important topics and features of the language.
 - IndexedDB
 - Files
 
-46. Audio and Video
-47. HTML5 Canvas
-48. Web Components
-49. Service Workers
-50. Messaging
-51. PWA
+46. Single Source of Truth
+47. State management
+48. Audio and Video
+49. HTML5 Canvas
+50. Web Components
+51. Service Workers
+52. Messaging
+53. PWA
 
 - manifest
 - service workers
