@@ -289,39 +289,39 @@ important topics and features of the language.
 56. History API
 57. Navigation API
 58. Web Animations API
-59. Notifications API
-60. Sensor APIs
-61. Screen Wake Lock API
-62. View Transitions API
-63. Geolocation API
-64. Page Visibility API
-65. ScreenOrientation API
-66. DeviceOrientation API
-67. Drag and Drop API
-68. Permissions API
-69. Web Payments API
-70. Clipboard API
-71. FullScreen API
-72. Prioritized Task Scheduling
-73. Observers Resize and Mutation and Intersection
-74. Selection API
-75. Web Speech API
-76. Web Share API
-77. CSSOM
-78. Web Push API
-79. Web Crypto API
-80. Streams
-81. Sockets
-82. WebRTC
-83. WebGL
-84. WebXR
-85. Wasm
-86. JAMStack
-87. SPA vs MPA
-88. Understanding Why to Use a Framework
-89. React
-90. NextJS
-91. Svelte
-92. Gatsby
-93. VueJS
-94. FireBase
+59. CSSOM
+60. Notifications API
+61. Sensor APIs
+62. Screen Wake Lock API
+63. Observers Resize and Mutation and Intersection
+64. Geolocation API
+65. Page Visibility API
+66. ScreenOrientation API
+67. DeviceOrientation API
+68. Drag and Drop API
+69. Permissions API
+70. Web Payments API
+71. Clipboard API
+72. View Transitions API
+73. FullScreen API
+74. JAMStack
+75. SPA vs MPA
+76. Understanding Why to Use a Framework
+77. React
+78. NextJS
+79. Svelte
+80. Gatsby
+81. VueJS
+82. FireBase
+83. Prioritized Task Scheduling
+84. Selection API
+85. Web Speech API
+86. Web Share API
+87. Web Push API
+88. Web Crypto API
+89. Streams
+90. Sockets
+91. WebRTC
+92. WebGL
+93. WebXR
+94. Wasm
