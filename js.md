@@ -315,13 +315,15 @@ important topics and features of the language.
 82. FireBase
 83. Prioritized Task Scheduling
 84. Selection API
-85. Web Speech API
-86. Web Share API
-87. Web Push API
-88. Web Crypto API
-89. Streams
-90. Sockets
-91. WebRTC
-92. WebGL
-93. WebXR
-94. Wasm
+85. Streams
+86. ByteArrays
+87. Sockets
+88. WebRTC
+89. Audio Context API
+90. Web Speech API
+91. Web Share API
+92. Web Push API
+93. Web Crypto API
+94. WebGL
+95. WebXR
+96. Wasm
