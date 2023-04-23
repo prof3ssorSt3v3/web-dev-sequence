@@ -316,3 +316,12 @@ important topics and features of the language.
 83. WebGL
 84. WebXR
 85. Wasm
+86. JAMStack
+87. SPA vs MPA
+88. Understanding Why to Use a Framework
+89. React
+90. NextJS
+91. Svelte
+92. Gatsby
+93. VueJS
+94. FireBase
