@@ -10,12 +10,14 @@ important topics and features of the language.
 - assigning values to variables
 - the purpose of variables
 - replacing `var` with `let` and `const`
-- single quotes, double quotes, backticks
+- naming rules
 
 2. DataTypes
 
 - JS primitives
 - JS Objects
+- single quotes, double quotes, backticks
+- `typeof`
 
 3. Truthy vs Falsey
 
@@ -47,6 +49,7 @@ important topics and features of the language.
 - global vs local scope
 - block scope
 - execution contexts
+- hoisting
 
 7. String Methods
 
@@ -227,30 +230,38 @@ important topics and features of the language.
 - odd, even
 
 36. Maps and Sets
-37. Symbols
-38. Generators and Iterators
+37. WeakSet, WeakMap, WeakRef
+38. Symbols
+39. Generators and Iterators
 
 - generator
 - yield
 - iterators
 
-38. setTimeout, setInterval
+40. setTimeout, setInterval
 
 - set and clear timers
 
-39. Tasks, Microtasks, requestAnimationFrame, Event Loop
-40. Higher Order and Pure Functions
-41. Execution context and closures
-42. Prototypes
+41. Tasks, Microtasks, requestAnimationFrame, Event Loop
+42. Higher Order and Pure Functions
+43. Execution context and closures
+44. Prototypes
 
 - prototype objects
 - prototype chain
 - **proto** - from objects
 - .prototype - from functions
 - .constructor
+- Object.create
+- Object.assign
+- Object.hasOwn
+- Object.freeze()
+- Object.seal()
+- property descriptors
 
-43. `new` and `this` and lexical scope
-44. Class keyword
+45. `new` and `this` and lexical scope
+46. call, apply, and bind
+47. Class keyword
 
 - constructor()
 - extends
@@ -259,7 +270,7 @@ important topics and features of the language.
 - static methods
 - extending errors
 
-45. Client-Side Storage
+48. Client-Side Storage
 
 - cookies
 - localStorage
@@ -268,62 +279,62 @@ important topics and features of the language.
 - IndexedDB
 - Files
 
-46. Single Source of Truth
-47. State management
-48. Audio and Video
-49. HTML5 Canvas
-50. Web Components
-51. Service Workers
-52. Messaging
-53. PWA
+49. Single Source of Truth
+50. State management
+51. Audio and Video
+52. HTML5 Canvas
+53. Web Components
+54. Service Workers
+55. Messaging
+56. PWA
 
 - manifest
 - service workers
 - caching strategies
 - WorkBox
 
-52. Web Workers
-53. Worklets
-54. Shared Workers
-55. WebAuth
-56. History API
-57. Navigation API
-58. Web Animations API
-59. CSSOM
-60. Notifications API
-61. Sensor APIs
-62. Screen Wake Lock API
-63. Observers Resize and Mutation and Intersection
-64. Geolocation API
-65. Page Visibility API
-66. ScreenOrientation API
-67. DeviceOrientation API
-68. Drag and Drop API
-69. Permissions API
-70. Web Payments API
-71. Clipboard API
-72. View Transitions API
-73. FullScreen API
-74. JAMStack
-75. SPA vs MPA
-76. Understanding Why to Use a Framework
-77. React
-78. NextJS
-79. Svelte
-80. Gatsby
-81. VueJS
-82. FireBase
-83. Prioritized Task Scheduling
-84. Selection API
-85. Streams
-86. ByteArrays
-87. Sockets
-88. WebRTC
-89. Audio Context API
-90. Web Speech API
-91. Web Share API
-92. Web Push API
-93. Web Crypto API
-94. WebGL
-95. WebXR
-96. Wasm
+57. Web Workers
+58. Worklets
+59. Shared Workers
+60. WebAuth
+61. History API
+62. Navigation API
+63. Web Animations API
+64. CSSOM
+65. Notifications API
+66. Sensor APIs
+67. Screen Wake Lock API
+68. Observers Resize and Mutation and Intersection
+69. Geolocation API
+70. Page Visibility API
+71. ScreenOrientation API
+72. DeviceOrientation API
+73. Drag and Drop API
+74. Permissions API
+75. Web Payments API
+76. Clipboard API
+77. View Transitions API
+78. FullScreen API
+79. JAMStack
+80. SPA vs MPA
+81. Understanding Why to Use a Framework
+82. React
+83. NextJS
+84. Svelte
+85. Gatsby
+86. VueJS
+87. FireBase
+88. Prioritized Task Scheduling
+89. Selection API
+90. Streams
+91. ByteArrays
+92. Sockets
+93. WebRTC
+94. Audio Context API
+95. Web Speech API
+96. Web Share API
+97. Web Push API
+98. Web Crypto API
+99. WebGL
+100.  WebXR
+101.  Wasm
