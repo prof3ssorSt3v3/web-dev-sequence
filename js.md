@@ -221,6 +221,10 @@ important topics and features of the language.
 - keys and params through querystring, headers, body
 - random-data-api.com
 - jsonplaceholder.typicode.com
+- reddit api
+- github api
+- openweather api
+- theMovieDataBase api
 - other example apis
 
 35. Form Validation
@@ -246,7 +250,7 @@ important topics and features of the language.
 43. Tasks, Microtasks, requestAnimationFrame, Event Loop
 44. Higher Order and Pure Functions
 45. Execution context and closures
-46. `===` vs `==` vs Object.is equality
+46. `===` vs `==` vs `Object.is` equality
 47. Prototypes
 
 - prototype objects
@@ -292,7 +296,7 @@ important topics and features of the language.
 58. Messaging
 59. PWA
 
-- manifest
+- manifest files
 - service workers
 - caching strategies
 - WorkBox
@@ -319,26 +323,40 @@ important topics and features of the language.
 79. Clipboard API
 80. View Transitions API
 81. FullScreen API
+82. Testing
+
+- Mocha
+- Chai
+- Jest
+- Vitest
+
 82. JAMStack
 83. SPA vs MPA
-84. Understanding Why to Use a Framework
-85. React
-86. NextJS
-87. Svelte
-88. Gatsby
-89. VueJS
-90. FireBase
-91. Prioritized Task Scheduling
-92. Selection API
-93. Streams
-94. ByteArrays
-95. Sockets
-96. WebRTC
-97. Audio Context API
-98. Web Speech API
-99. Web Share API
-100.  Web Push API
-101.  Web Crypto API
-102.  WebGL
-103.  WebXR
-104.  Wasm
+84. Build Tools and Packagers
+
+- Webpack
+- Parcel
+- Vite
+
+85. Babel
+86. Understanding Why to Use a Framework
+87. React
+88. NextJS
+89. Svelte
+90. Gatsby
+91. VueJS
+92. FireBase
+93. Prioritized Task Scheduling
+94. Selection API
+95. Streams
+96. ByteArrays
+97. Sockets
+98. WebRTC
+99. Audio Context API
+100.  Web Speech API
+101.  Web Share API
+102.  Web Push API
+103.  Web Crypto API
+104.  WebGL
+105.  WebXR
+106.  Wasm
