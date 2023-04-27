@@ -305,58 +305,59 @@ important topics and features of the language.
 61. Worklets
 62. Shared Workers
 63. WebAuth
-64. History API
-65. Navigation API
-66. Web Animations API
-67. CSSOM
-68. Notifications API
-69. Sensor APIs
-70. Screen Wake Lock API
-71. Observers: Resize and Mutation and Intersection
-72. Geolocation API
-73. Page Visibility API
-74. ScreenOrientation API
-75. DeviceOrientation API
-76. Drag and Drop API
-77. Permissions API
-78. Web Payments API
-79. Clipboard API
-80. View Transitions API
-81. FullScreen API
-82. Testing
+64. OAuth
+65. History API
+66. Navigation API
+67. Web Animations API
+68. CSSOM
+69. Notifications API
+70. Sensor APIs
+71. Screen Wake Lock API
+72. Observers: Resize and Mutation and Intersection
+73. Geolocation API
+74. Page Visibility API
+75. ScreenOrientation API
+76. DeviceOrientation API
+77. Drag and Drop API
+78. Permissions API
+79. Web Payments API
+80. Clipboard API
+81. View Transitions API
+82. FullScreen API
+83. Testing
 
 - Mocha
 - Chai
 - Jest
 - Vitest
 
-82. JAMStack
-83. SPA vs MPA
-84. Build Tools and Packagers
+84. JAMStack
+85. SPA vs MPA
+86. Build Tools and Packagers
 
 - Webpack
 - Parcel
 - Vite
 
-85. Babel
-86. Understanding Why to Use a Framework
-87. React
-88. NextJS
-89. Svelte
-90. Gatsby
-91. VueJS
-92. FireBase
-93. Prioritized Task Scheduling
-94. Selection API
-95. Streams
-96. ByteArrays
-97. Sockets
-98. WebRTC
-99. Audio Context API
-100.  Web Speech API
-101.  Web Share API
-102.  Web Push API
-103.  Web Crypto API
-104.  WebGL
-105.  WebXR
-106.  Wasm
+87. Babel
+88. Understanding Why to Use a Framework
+89. React
+90. NextJS
+91. Svelte
+92. Gatsby
+93. VueJS
+94. FireBase
+95. Prioritized Task Scheduling
+96. Selection API
+97. Streams
+98. ByteArrays
+99. Sockets
+100.  WebRTC
+101.  Audio Context API
+102.  Web Speech API
+103.  Web Share API
+104.  Web Push API
+105.  Web Crypto API
+106.  WebGL
+107.  WebXR
+108.  Wasm
