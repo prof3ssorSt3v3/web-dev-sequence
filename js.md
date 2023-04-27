@@ -347,6 +347,14 @@ important topics and features of the language.
 92. Gatsby
 93. VueJS
 94. FireBase
+
+- FireStore
+- Hosting
+- Functions
+- Storage
+- Authentication
+- Messaging
+
 95. Prioritized Task Scheduling
 96. Selection API
 97. Streams
