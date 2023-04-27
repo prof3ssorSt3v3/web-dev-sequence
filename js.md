@@ -194,11 +194,12 @@ important topics and features of the language.
 - invalid event, submit event
 - form properties and encoding
 
-28. Promises
-29. XML
-30. JSON
-31. JS Objects vs JSON
-32. fetch and XMLHttpRequest
+28. Callback functions
+29. Promises
+30. XML
+31. JSON
+32. JS Objects vs JSON
+33. fetch and XMLHttpRequest
 
 - HTTP Methods
 - HTTP Status codes
@@ -213,7 +214,7 @@ important topics and features of the language.
 - Uploading files and data
 - XMLHttpRequest
 
-32. APIs
+34. APIs
 
 - What is an API
 - API keys
@@ -222,31 +223,31 @@ important topics and features of the language.
 - jsonplaceholder.typicode.com
 - other example apis
 
-33. Form Validation
-34. Regular Expressions
-35. Bitwise operations
+35. Form Validation
+36. Regular Expressions
+37. Bitwise operations
 
 - AND, OR, XOR, NOT
 - odd, even
 
-36. Maps and Sets
-37. WeakSet, WeakMap, WeakRef
-38. Symbols
-39. Generators and Iterators
+38. Maps and Sets
+39. WeakSet, WeakMap, WeakRef
+40. Symbols
+41. Generators and Iterators
 
 - generator
 - yield
 - iterators
 
-40. setTimeout, setInterval
+42. setTimeout, setInterval
 
 - set and clear timers
 
-41. Tasks, Microtasks, requestAnimationFrame, Event Loop
-42. Higher Order and Pure Functions
-43. Execution context and closures
-44. `===` vs `==` vs Object.is equality
-45. Prototypes
+43. Tasks, Microtasks, requestAnimationFrame, Event Loop
+44. Higher Order and Pure Functions
+45. Execution context and closures
+46. `===` vs `==` vs Object.is equality
+47. Prototypes
 
 - prototype objects
 - prototype chain
@@ -262,9 +263,9 @@ important topics and features of the language.
 - Object.defineProperties
 - Object.defineProperty
 
-46. `new` and `this` and lexical scope
-47. call, apply, and bind
-48. Class keyword
+48. `new` and `this` and lexical scope
+49. call, apply, and bind
+50. Class keyword
 
 - constructor()
 - extends
@@ -273,7 +274,7 @@ important topics and features of the language.
 - static methods
 - extending errors
 
-49. Client-Side Storage
+51. Client-Side Storage
 
 - cookies
 - localStorage
@@ -282,62 +283,62 @@ important topics and features of the language.
 - IndexedDB
 - Files
 
-50. Single Source of Truth
-51. State management
-52. Audio and Video
-53. HTML5 Canvas
-54. Web Components
-55. Service Workers
-56. Messaging
-57. PWA
+52. Single Source of Truth
+53. State management
+54. Audio and Video
+55. HTML5 Canvas
+56. Web Components
+57. Service Workers
+58. Messaging
+59. PWA
 
 - manifest
 - service workers
 - caching strategies
 - WorkBox
 
-58. Web Workers
-59. Worklets
-60. Shared Workers
-61. WebAuth
-62. History API
-63. Navigation API
-64. Web Animations API
-65. CSSOM
-66. Notifications API
-67. Sensor APIs
-68. Screen Wake Lock API
-69. Observers: Resize and Mutation and Intersection
-70. Geolocation API
-71. Page Visibility API
-72. ScreenOrientation API
-73. DeviceOrientation API
-74. Drag and Drop API
-75. Permissions API
-76. Web Payments API
-77. Clipboard API
-78. View Transitions API
-79. FullScreen API
-80. JAMStack
-81. SPA vs MPA
-82. Understanding Why to Use a Framework
-83. React
-84. NextJS
-85. Svelte
-86. Gatsby
-87. VueJS
-88. FireBase
-89. Prioritized Task Scheduling
-90. Selection API
-91. Streams
-92. ByteArrays
-93. Sockets
-94. WebRTC
-95. Audio Context API
-96. Web Speech API
-97. Web Share API
-98. Web Push API
-99. Web Crypto API
-100.  WebGL
-101.  WebXR
-102.  Wasm
+60. Web Workers
+61. Worklets
+62. Shared Workers
+63. WebAuth
+64. History API
+65. Navigation API
+66. Web Animations API
+67. CSSOM
+68. Notifications API
+69. Sensor APIs
+70. Screen Wake Lock API
+71. Observers: Resize and Mutation and Intersection
+72. Geolocation API
+73. Page Visibility API
+74. ScreenOrientation API
+75. DeviceOrientation API
+76. Drag and Drop API
+77. Permissions API
+78. Web Payments API
+79. Clipboard API
+80. View Transitions API
+81. FullScreen API
+82. JAMStack
+83. SPA vs MPA
+84. Understanding Why to Use a Framework
+85. React
+86. NextJS
+87. Svelte
+88. Gatsby
+89. VueJS
+90. FireBase
+91. Prioritized Task Scheduling
+92. Selection API
+93. Streams
+94. ByteArrays
+95. Sockets
+96. WebRTC
+97. Audio Context API
+98. Web Speech API
+99. Web Share API
+100.  Web Push API
+101.  Web Crypto API
+102.  WebGL
+103.  WebXR
+104.  Wasm
