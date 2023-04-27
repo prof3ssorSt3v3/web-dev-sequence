@@ -245,7 +245,8 @@ important topics and features of the language.
 41. Tasks, Microtasks, requestAnimationFrame, Event Loop
 42. Higher Order and Pure Functions
 43. Execution context and closures
-44. Prototypes
+44. `===` vs `==` vs Object.is equality
+45. Prototypes
 
 - prototype objects
 - prototype chain
@@ -258,10 +259,12 @@ important topics and features of the language.
 - Object.freeze()
 - Object.seal()
 - property descriptors
+- Object.defineProperties
+- Object.defineProperty
 
-45. `new` and `this` and lexical scope
-46. call, apply, and bind
-47. Class keyword
+46. `new` and `this` and lexical scope
+47. call, apply, and bind
+48. Class keyword
 
 - constructor()
 - extends
@@ -270,7 +273,7 @@ important topics and features of the language.
 - static methods
 - extending errors
 
-48. Client-Side Storage
+49. Client-Side Storage
 
 - cookies
 - localStorage
@@ -279,62 +282,62 @@ important topics and features of the language.
 - IndexedDB
 - Files
 
-49. Single Source of Truth
-50. State management
-51. Audio and Video
-52. HTML5 Canvas
-53. Web Components
-54. Service Workers
-55. Messaging
-56. PWA
+50. Single Source of Truth
+51. State management
+52. Audio and Video
+53. HTML5 Canvas
+54. Web Components
+55. Service Workers
+56. Messaging
+57. PWA
 
 - manifest
 - service workers
 - caching strategies
 - WorkBox
 
-57. Web Workers
-58. Worklets
-59. Shared Workers
-60. WebAuth
-61. History API
-62. Navigation API
-63. Web Animations API
-64. CSSOM
-65. Notifications API
-66. Sensor APIs
-67. Screen Wake Lock API
-68. Observers Resize and Mutation and Intersection
-69. Geolocation API
-70. Page Visibility API
-71. ScreenOrientation API
-72. DeviceOrientation API
-73. Drag and Drop API
-74. Permissions API
-75. Web Payments API
-76. Clipboard API
-77. View Transitions API
-78. FullScreen API
-79. JAMStack
-80. SPA vs MPA
-81. Understanding Why to Use a Framework
-82. React
-83. NextJS
-84. Svelte
-85. Gatsby
-86. VueJS
-87. FireBase
-88. Prioritized Task Scheduling
-89. Selection API
-90. Streams
-91. ByteArrays
-92. Sockets
-93. WebRTC
-94. Audio Context API
-95. Web Speech API
-96. Web Share API
-97. Web Push API
-98. Web Crypto API
-99. WebGL
-100.  WebXR
-101.  Wasm
+58. Web Workers
+59. Worklets
+60. Shared Workers
+61. WebAuth
+62. History API
+63. Navigation API
+64. Web Animations API
+65. CSSOM
+66. Notifications API
+67. Sensor APIs
+68. Screen Wake Lock API
+69. Observers: Resize and Mutation and Intersection
+70. Geolocation API
+71. Page Visibility API
+72. ScreenOrientation API
+73. DeviceOrientation API
+74. Drag and Drop API
+75. Permissions API
+76. Web Payments API
+77. Clipboard API
+78. View Transitions API
+79. FullScreen API
+80. JAMStack
+81. SPA vs MPA
+82. Understanding Why to Use a Framework
+83. React
+84. NextJS
+85. Svelte
+86. Gatsby
+87. VueJS
+88. FireBase
+89. Prioritized Task Scheduling
+90. Selection API
+91. Streams
+92. ByteArrays
+93. Sockets
+94. WebRTC
+95. Audio Context API
+96. Web Speech API
+97. Web Share API
+98. Web Push API
+99. Web Crypto API
+100.  WebGL
+101.  WebXR
+102.  Wasm
