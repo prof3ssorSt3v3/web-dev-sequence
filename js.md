@@ -17,7 +17,7 @@ important topics and features of the language.
 - JS primitives
 - JS Objects
 - single quotes, double quotes, backticks
-- `typeof`
+- `typeof` operator
 
 3. Truthy vs Falsey
 
@@ -39,6 +39,7 @@ important topics and features of the language.
 5. Functions
 
 - purpose of functions
+- function declarations vs expressions
 - return statements
 - parameters
 - arrow functions vs regular functions
@@ -50,6 +51,7 @@ important topics and features of the language.
 - block scope
 - execution contexts
 - hoisting
+- JS memory stack vs heap
 
 7. String Methods
 
@@ -81,18 +83,28 @@ important topics and features of the language.
 - object literals
 - adding, editing, deleting properties
 - checking for existence of properties
+- destructive vs copying methods
 
 12. Arrays
 
 - purpose of arrays
 - push, pop, shift, unshift, length
-- slice, splice, sort
+- slice, splice
 - forEach, map, filter, reduce
-- join, String.split
+- find, findIndex, findLast
+- concat
+- every, fill, some
+- sort vs toSorted
+- reverse vs toReversed
+- join & String.split
 
 13. Loops
 
-- for, for..in, for..of, while, do..while
+- for()
+- for( in )
+- for( of )
+- while()
+- do..while()
 - iterable vs enumerable
 
 14. Date Objects
@@ -196,11 +208,12 @@ important topics and features of the language.
 
 28. Callback functions
 29. Promises
-30. XML
-31. JSON
+30. XML, Yaml, Txt formats
+31. JSON format
 32. JS Objects vs JSON
 33. fetch and XMLHttpRequest
 
+- APIs vs Web APIs (HTML5)
 - HTTP Methods
 - HTTP Status codes
 - Request Objects
