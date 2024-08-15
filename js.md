@@ -232,12 +232,16 @@ important topics and features of the language.
 - What is an API
 - API keys
 - keys and params through querystring, headers, body
-- random-data-api.com
-- jsonplaceholder.typicode.com
+- https://random-data-api.com/documentation - v2
+- https://jsonplaceholder.typicode.com
+- https://dummyjson.com/
 - reddit api
 - github api
 - openweather api
 - theMovieDataBase api
+- https://picsum.photos
+- unsplash API
+- pexels API
 - other example apis
 
 35. Form Validation
@@ -260,7 +264,7 @@ important topics and features of the language.
 
 - set and clear timers
 
-43. Tasks, Microtasks, requestAnimationFrame, Event Loop
+43. Tasks, Microtasks, requestAnimationFrame, JS Event Loop
 44. Higher Order and Pure Functions
 45. Execution context and closures
 46. `===` vs `==` vs `Object.is` equality
@@ -372,7 +376,7 @@ important topics and features of the language.
 96. Selection API
 97. Streams
 98. ByteArrays
-99. Sockets
+99. WebSockets and Socket.io
 100.  WebRTC
 101.  Audio Context API
 102.  Web Speech API
