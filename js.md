@@ -232,17 +232,17 @@ important topics and features of the language.
 - What is an API
 - API keys
 - keys and params through querystring, headers, body
-- https://random-data-api.com/documentation - v2
-- https://jsonplaceholder.typicode.com
-- https://dummyjson.com/
-- reddit api
-- github api
-- openweather api
-- theMovieDataBase api
-- https://picsum.photos
-- unsplash API
-- pexels API
-- other example apis
+- [Random Data API v2](https://random-data-api.com/documentation)
+- [JSONPlaceHolder](https://jsonplaceholder.typicode.com)
+- [Dummy JSON API](https://dummyjson.com/)
+- [reddit api](https://www.reddit.com/dev/api/)
+- [github api](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+- [OpenWeatherMap api](https://openweathermap.org/api)
+- [theMovieDataBase api](https://www.themoviedb.org/)
+- [Picsum Photo API](https://picsum.photos)
+- [unsplash API](https://unsplash.com/developers)
+- [pexels API](https://unsplash.com/developers)
+- look for other example apis
 
 35. Form Validation
 36. Regular Expressions
@@ -348,22 +348,21 @@ important topics and features of the language.
 - Jest
 - Vitest
 
-84. JAMStack
-85. SPA vs MPA
-86. Build Tools and Packagers
+84. SPA vs MPA
+85. Build Tools and Packagers
 
 - Webpack
 - Parcel
 - Vite
 
-87. Babel
-88. Understanding Why to Use a Framework
-89. React
-90. NextJS
-91. Svelte
-92. Gatsby
-93. VueJS
-94. FireBase
+86. Babel
+87. Understanding Why to Use a Framework
+88. React
+89. NextJS
+90. Svelte
+91. Gatsby
+92. VueJS
+93. FireBase
 
 - FireStore
 - Hosting
@@ -372,17 +371,17 @@ important topics and features of the language.
 - Authentication
 - Messaging
 
-95. Prioritized Task Scheduling
-96. Selection API
-97. Streams
-98. ByteArrays
-99. WebSockets and Socket.io
-100.  WebRTC
-101.  Audio Context API
-102.  Web Speech API
-103.  Web Share API
-104.  Web Push API
-105.  Web Crypto API
-106.  WebGL
-107.  WebXR
-108.  Wasm
+94. Prioritized Task Scheduling
+95. Selection API
+96. Streams
+97. ByteArrays
+98. WebSockets and Socket.io
+99. WebRTC
+100.  Audio Context API
+101.  Web Speech API
+102.  Web Share API
+103.  Web Push API
+104.  Web Crypto API
+105.  WebGL
+106.  WebXR
+107.  Wasm
